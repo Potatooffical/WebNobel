@@ -13,7 +13,7 @@ document.getElementById("menu").innerHTML = `<nav class="navbar navbar-expand-sm
           <a class="nav-link" href="evkeres.html">Év kereséss</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="Nevkeres">Név keresés</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Hihi Haha</a>
